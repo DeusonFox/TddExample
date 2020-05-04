@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "task1\Task_1.csproj", "{A6202E03-5E89-456C-A6C2-812172005BF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{BE2A9658-0972-4EB9-8706-CB35122B2E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerTest", "IndexerTest\IndexerTest.csproj", "{ACE16163-2CE4-430B-8969-F5FCFDCF294B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{D3FA1997-2D34-405E-8660-3E4AD3B821C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{788D5447-39E1-417A-9F22-8A3FF72CD4F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemOfLinearEquationTest", "SystemOfLinearEquation\SystemOfLinearEquationTest.csproj", "{B86B7506-0CA4-443E-B377-C8B00071C5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearEquationTest", "LinearEquationTest\LinearEquationTest.csproj", "{8869250F-96F2-4232-890C-6AE1941609D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6202E03-5E89-456C-A6C2-812172005BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6202E03-5E89-456C-A6C2-812172005BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6202E03-5E89-456C-A6C2-812172005BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6202E03-5E89-456C-A6C2-812172005BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE16163-2CE4-430B-8969-F5FCFDCF294B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE16163-2CE4-430B-8969-F5FCFDCF294B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE16163-2CE4-430B-8969-F5FCFDCF294B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE16163-2CE4-430B-8969-F5FCFDCF294B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{788D5447-39E1-417A-9F22-8A3FF72CD4F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{788D5447-39E1-417A-9F22-8A3FF72CD4F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{788D5447-39E1-417A-9F22-8A3FF72CD4F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{788D5447-39E1-417A-9F22-8A3FF72CD4F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86B7506-0CA4-443E-B377-C8B00071C5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86B7506-0CA4-443E-B377-C8B00071C5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86B7506-0CA4-443E-B377-C8B00071C5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86B7506-0CA4-443E-B377-C8B00071C5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8869250F-96F2-4232-890C-6AE1941609D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8869250F-96F2-4232-890C-6AE1941609D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8869250F-96F2-4232-890C-6AE1941609D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8869250F-96F2-4232-890C-6AE1941609D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6202E03-5E89-456C-A6C2-812172005BF9} = {BE2A9658-0972-4EB9-8706-CB35122B2E12}
+		{ACE16163-2CE4-430B-8969-F5FCFDCF294B} = {BE2A9658-0972-4EB9-8706-CB35122B2E12}
+		{788D5447-39E1-417A-9F22-8A3FF72CD4F1} = {D3FA1997-2D34-405E-8660-3E4AD3B821C4}
+		{B86B7506-0CA4-443E-B377-C8B00071C5CA} = {D3FA1997-2D34-405E-8660-3E4AD3B821C4}
+		{8869250F-96F2-4232-890C-6AE1941609D0} = {D3FA1997-2D34-405E-8660-3E4AD3B821C4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2C0002-FF3C-4192-AE31-E343359B881A}
+	EndGlobalSection
+EndGlobal
